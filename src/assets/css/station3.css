@@ -10,10 +10,10 @@ p.card__title{
 img.card__img-top{
   width: 288px;
   height: 182px;
-  margin_bottom: 20px;
+  margin-bottom: 20px;
 }
 
 div.card{
   padding: 10px;
-  background-color: #fff;
+  background-color: #ffffff;
 }
