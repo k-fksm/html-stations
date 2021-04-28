@@ -6,7 +6,7 @@ nav{
   background-color: #726666;
 }
 
-p.card__title{
+.card__title{
   color: #282828;
   font-size: 14px;
   filter: contrast(2);
