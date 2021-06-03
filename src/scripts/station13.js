@@ -1,4 +1,4 @@
 export function getData() {
-    let str = () => "Arrow"// Arrowという文字列を返す処理をアロー関数を入れて書きましょう。
-    return str()// ここにアロー関数の処理を書く
+    //let str = () => "Arrow"// Arrowという文字列を返す処理をアロー関数を入れて書きましょう。
+    return () => "Arrow"// ここにアロー関数の処理を書く
 }
